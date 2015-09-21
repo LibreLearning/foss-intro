@@ -7,7 +7,9 @@ pleasure. Let it go from hand to hand: let those who request it have it. As a ba
 
 >*Juan Ruiz, Archpriest of Hita. The Book of Good Love (14th century, original in Ancient Spanish)*
 
-This is a new, revised and updated version of Introduction to Free Software. Still work in progress...
+This is a new, revised and updated edition of Introduction to Free Software. The contents of the previous editions are included, updated and completed with new materials.
+
+Still work in progress...
 
 ## Preface to the 2009 edition
 
