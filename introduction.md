@@ -49,4 +49,28 @@ for free.
 
 > Despite the fact that anyone can market a given program at any price, and that this theoretically means that the redistribution price tends towards the marginal cost of copying the program, there are business models based precisely on selling free software, because there are many circumstances in which the consumer will be prepared to pay in exchange for certain other benefits, such as for example a guarantee, albeit a subjective one, for the software acquired or an added value in the choice, updating and organization of a set of programs.
 
-From a practical point of view, several texts define more precisely what conditions a licence must fulfil in order to be considered a free software license. Among these, we highlight for their historical importance the [Free Software Definition of the Free Software Foundation](http://www.gnu.org/philosophy/free-sw.html) [120], the [Debian Guidelines for deciding whether a program is free](http://www.debian.org/social_contract.html") [104] and the definition of the term [open source by the Open Source Initiative](http://www.opensource.org/docs/definition_plain.html) [215], which is very similar to the former two.
+From a practical point of view, several texts define more precisely what conditions a licence must fulfil in order to be considered a free software license. Among these, we highlight for their historical importance the [Free Software Definition of the Free Software Foundation](http://www.gnu.org/philosophy/free-sw.html) [120], the [Debian Free Software Guidelines](http://www.debian.org/social_contract.html") [104], used by the Debian project to decide whether a program is free software, and the [Open Source Definition](http://www.opensource.org/docs/definition_plain.html) [215], definition of the term "open source software", by the Open Source Initiative, which is very similar to the former two.
+
+> #### Note: 
+
+> For example, the Debian Free Software Guidelines go into the detail of allowing the author to demand that distributed source codes not be modified directly, but rather that the original is accompanied by separate patches and that binary programs be generated with different names to the original. They also demand that the licenses do not affect other independent programs distributed by the same means.
+
+## Related terms
+
+The term 'open source software', promoted originally by Eric Raymond and the Open Source Initiative is equivalent to the term 'free software'. Philosophically speaking, the term is very different since it emphasizes the availability of the source code and not its freedom, but the definition is practically the same as
+Debian Free Software Guidelines, which was designed as a set of rules to determine if a piece of software was compliant with the Free Software Definition by the FSF.
+
+'Open source' is perhaps more 'aseptic'than 'free software', and emphasizes the technical side, which can provide technical benefits, such as improved development and business models, better security, etc. Strongly criticised by Richard Stallman (see "Why 'free software' is better than 'open source<'" [204]) and the Free Software Foundation, it has resonated far better with the commercial literature and with the company strategies that one way or another support the model.
+
+Other terms associated in some way to free software are as follows:
+
+| Term | Definition |
+| -- | -- |
+| Freeware| These are gratis programs. They are normally only distributed in binary form, and can be obtained free of charge. Sometimes it is possible to obtain permission to redistribute, and others not, meaning that then it can only be obtained from the 'official' site maintained for that purpose. It is frequently used to promote other programs (normally with more complete functionality) or services. Examples of this type of programs include Skype, Google Earth or Microsoft Messenger. |
+| Freeware | These are gratis programs. They are normally only distributed in binary form, and can be obtained free of charge. Sometimes it is possible to obtain permission to redistribute, and others not, meaning that then it can only be obtained from the 'official' site maintained for that purpose. It is frequently used to promote other programs (normally with more complete functionality) or services. Examples of this type of programs include Skype, Google Earth or Microsoft Messenger |
+| Shareware | This is not even gratis software, but rather a distribution method since usually the programs can be copied freely, generally without source code, but not used continuously without paying for them. The requirement to pay may be motivated by a limited functionality, being sent annoying messages or the mere appeal to the user's ethic. Also, the license's legal terms may be used against the transgressor. |
+| Charityware, careware | This is normally shareware that requires payment to be directed towards a sponsored charity. In many cases, instead of demanding payment, a voluntary contribution may be requested. Some free software, such as Vim, asks for voluntary contributions of this nature (Brian Molenaar, "What is the context of charityware?" [173]).|
+| Public domain | Here, the author totally renounces all his rights in favour of the public domain, and this needs to be explicitly stated in the program since otherwise, the program will be deemed proprietary and nothing can be done with it. In this case, if additionally the source code is provided, the program is free. |
+| Copyleft | This is a particular case of free software where the license requires any distributed modifications to be free as well. 
+| Proprietary, locked-in, non-free | These are terms used to refer to software that is neither free nor open source. |
+
