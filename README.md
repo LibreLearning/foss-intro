@@ -1,15 +1,15 @@
 # Preface
 
-This is a new, revised and updated version of Introduction to Free Software. Still work in progress...
-
-## Preface to the 2009 edition
-
 > *"Anyone who hears this, if can sing, may add and change at
 pleasure. Let it go from hand to hand: let those who request it have it. As a ball among young women, catch it if you can.*
 
 > *Since this is of 'Good Love', lend it out gladly: do not make a mockery of its name by keeping it in reserve; nor exchange it for money by selling or renting it; for 'Good Love' when bought, loses its charm."*
 
 >*Juan Ruiz, Archpriest of Hita. The Book of Good Love (14th century, original in Ancient Spanish)*
+
+This is a new, revised and updated version of Introduction to Free Software. Still work in progress...
+
+## Preface to the 2009 edition
 
 The first version of these notes was written by Jesus M. Gonzalez-Barahona, Joaquín Seoane Pascual and Gregorio Robles
 between April and September 2003. Although we had been discussing for a while preparing a document of this type for the Free Software course that Joaquín and Jesús teach as part of the PhD programs of their respective departments, it was the initiative of the Open University of Catalonia (UOC) that commissioned us to prepare material to introduce the free software masters course, which finally encouraged us to get started. The involvement of Jordi Mas, the academic coordinator of the masters course, in this task was crucial, in that he proposed us for the job and put us in contact with the UOC, additionally supporting our relations with the UOC throughout the project's duration.
