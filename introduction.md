@@ -13,3 +13,7 @@ To begin with, in this chapter we will present the specific aspects of free soft
 those approaching the subject for the first time, and underlining its importance. As part of this background, we will reflect on the
 definition of the term (to know what we're talking about) and on the main consequences of using (and the mere existence of) free
 software.
+
+##  The concept of software freedom
+
+Since the early seventies we have become used to the fact that anyone marketing a program can impose (and does impose) the conditions under which the program can be used. Lending to a third party may be prohibited for example. Despite the fact that software is the most flexible and adaptable item of technology that we have, it is possible to impose the prohibition (and it frequently is imposed) to adapt it to particular needs, or to correct its errors, without the explicit agreement of the manufacturer, who normally reserves the exclusive right to these possibilities. But this is just one of the possibilities that current legislation offers: *free software*, on the other hand, offers freedoms that *proprietary software* denies.
