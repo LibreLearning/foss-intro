@@ -84,3 +84,48 @@ As we have seen, there are two large families of motivations for free software d
 
 Aside from these two main motivations, people working on free
 software can do so for many other reasons, including for fun [217] or for money, potentially with sustainable business models. Chapter 4 studies these motivations in detail on the basis of objective analyses.
+
+## The consequences of software freedom
+
+Free software offers many advantages and, of the few disadvantages, many have been exaggerated (or invented) by proprietary competitors. The most well-founded disadvantage is the financial one, since as we have seen it is not possible to make much money from its distribution, which can and tends to be made by someone other than the author. This is why other business models and financing mechanisms are needed, which we look into in chapter 5. Other disadvantages, such as the lack of support or poor quality, are related to financing but also in many cases are false, since even software with no form of financing tends to offer good support levels thanks to user and developer forums, and often the quality is very high.
+
+Bearing in mind the financial considerations, we should note that the free software cost model is very different to the proprietary software cost model, since a large amount of it develops outside of the formal monetary economy, and frequently using exchange/barter mechanisms: "I give you a program that you are interested in, and you adapt it to your architecture and make the improvements that you need." Chapter 7 discusses the right software engineering mechanisms to make the most of these unpaid for human resources with their own particular features, while Chapter 8 studies the tools used to make this collaboration effective. Also, a large share of the costs is reduced by the fact that it is free, since
+new programs do not need to start from scratch, because they can reuse already made software. The distribution also has a much lower cost, since it is distributed via the Internet and with free advertising through public forums designed for this purpose.
+
+Another outcome of the freedoms is the quality resulting from the voluntary collaboration of people who contribute or discover and notify bugs in environments or situations that are unimaginable for the original developer. Plus, if a program does not offer sufficient quality, the competition may take it and improve on it on the basis of what there is. This is how collaboration and competition, two powerful mechanisms, combine in order to produce better quality.
+
+Now let's examine the beneficial consequences for the receiver.
+
+### For the end user
+
+The end user, whether an individual or a company, can find real competition in a market with a monopoly trend. To be precise, it does not necessarily depend on the software manufacturer's support, since there may be several companies, even small ones with the source code and the knowledge that allows them to do business while keeping certain programs free.
+
+Trying to find out the quality of a product no longer relies so much on the manufacturer's trustworthiness as on the guide given by the community's acceptance and the availability of the source code. Also, we can forget the 'black boxes', that must be trusted 'because we say so', and the strategies of manufacturers that can unilaterally decide whether to abandon or maintain a particular product.
+
+Evaluating products before they are adopted has been made much easier now, since all we have to do is to install the alternative products in our real environment and test them, whereas for proprietary software we must rely on external reports or negotiate tests with suppliers, which are not always possible.
+
+Because of the freedom to modify the program for own use, users are able to customize it or adapt it to own requirements correcting any errors if there are any. The process of debugging errors found by proprietary software users is normally extremely laborious, if not impossible, since if we manage to get the errors debugged, the correction will often be incorporated in the following version, which may take years to be released, and which moreover we will have to buy again. With free software, on the other hand, we can make corrections or fixes ourselves, if we are qualified, or otherwise outsource the service. We can also, directly or by contracting external services, integrate the program with another one or audit its quality (for example in terms of security). To a great extent control is passed on from the supplier to the user.
+
+### For public administrations
+
+Public administrations are large users with special characteristics, as it has a special obligation towards its citizens, whether to provide accessible services, neutral in relation to manufacturers, or to guarantee the integrity, utility, privacy and security of their data in the long term. All of the above makes it obligatory for public administration to be more respectful towards standards than private companies and to maintain data in open formats and to process data with software that is independent of maybe foreign companies' strategies, certified as secure by an internal audit. Adaptation to standards is a notable feature of free software that proprietary software does not respect to the same extent, because it is generally eager to create captive
+markets.
+
+Also, the Administration serves as a sort of showcase and guide for industry, meaning that it has a great impact, which ought to be directed at weaving a technological fabric that generates national wealth. This wealth may be created by promoting the development of companies dedicated to developing new free software for the Administration, or maintaining, adapting or auditing existing software. In chapter 6, we will look at this issue in more depth.
+
+### For the developer
+
+For the software developer and producer, freedom significantly changes the rules of the game. It makes it easier to continue to compete while being small and to acquire cutting edge technology. It allows us to take advantage of others' work, competing even with another product by modifying its own code, although the copied competitor can then also take advantage of our code (if it is copylefted. If the project is well-managed, it is possible to obtain the free collaboration of a large number of people and, also, to obtain access to a virtually free and global distribution
+system. Nonetheless, the issue of how to obtain financial resources remains, if the software is not the product of a paid-for commission. Chapter 5 deals with this aspect.
+
+### For the integrator
+
+For integrators, free software is paradise. It means that there are no longer black boxes that need to be fitted together, often using reverse engineering. Rough edges can be smoothed out and parts of programs can be integrated in order to obtain the required integrated product, because there is a huge share pool of free software from which the parts can be extracted.
+
+### For providers of maintenance services
+
+Having the source code changes everything and puts us in the same position as the producer. If the position is not the same, it is because we are lacking an in-depth knowledge of the program that only the developer has, which means that it is advisable for maintenance providers to participate in the projects that they are required to maintain. The added value of services is much more appreciated because the cost of the program is low. It is currently the clearest business with free software and the one where the most competition is possible.
+
+## Summary
+
+This first chapter has served as a preliminary encounter with the world of free software. The concept defined by Richard Stallman is based on four freedoms (freedom to execute, freedom to study, freedom to redistribute and freedom to improve), two of which require access to the source code. This accessibility and its advantages have motivated another less ethical and more pragmatic point of view, defended by the Open Source Initiative, which has given rise to another term: 'open source software'. We have also mentioned other related similar or opposite terms, which serve to clarify various concepts. Finally, we have discussed the consequences of free software for the main parties involved. 
