@@ -74,3 +74,13 @@ Other terms associated in some way to free software are as follows:
 | Copyleft | This is a particular case of free software where the license requires any distributed modifications to be free as well. 
 | Proprietary, locked-in, non-free | These are terms used to refer to software that is neither free nor open source. |
 
+## Motivations
+
+As we have seen, there are two large families of motivations for free software development, which likewise give rise to the two names by which it is known:
+
+* The ethical motivation, championed by the Free Software Foundation, which has inherited the hacker culture and supports the use of the term 'free', arguing that software is knowledge that should be shared unimpeded, that hiding it is antisocial and additionally claims that the ability to modify programs is a form of freedom of expression. You can study this in more depth by reading "Free software, free society. Selected essays of Richard M. Stallman" [211] or the analysis of Pekka Himanen "The hacker ethic and the spirit of the information age" [144].
+
+* The pragmatic motivation, championed by the Open Source Initiative [54] which supports the use of the term 'open source', and argues the case of the technical and financial advantages that we will discuss in the next section.
+
+Aside from these two main motivations, people working on free
+software can do so for many other reasons, including for fun [217] or for money, potentially with sustainable business models. Chapter 4 studies these motivations in detail on the basis of objective analyses.
